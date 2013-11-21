@@ -1,0 +1,15 @@
+{
+  "name": "sounds",
+  "version": "0.0.0",
+  "description": "listen & play sounds",
+  "main": "none",
+  "scripts": {
+    "test": "mocha --reporter xunit-file"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eccyan/sounds.git"
+  },
+  "author": "Daisuke Sato",
+  "license": "MIT"
+}
